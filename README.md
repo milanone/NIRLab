@@ -63,3 +63,7 @@ Files from other instruments may need small changes to the parser.
 
 Python 3.10+ and the packages in `requirements.txt` (streamlit, pandas, numpy, scipy,
 scikit-learn, matplotlib, plotly).
+
+## License
+
+[MIT](LICENSE)
