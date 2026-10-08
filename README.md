@@ -32,7 +32,7 @@ pip install -r requirements.txt
 streamlit run app_streamlit.py
 ```
 
-On Windows, `Avvia_App.bat` starts the app with `py -m streamlit run app_streamlit.py`.
+On Windows: `py -m streamlit run app_streamlit.py`.
 
 ## Data organisation
 
